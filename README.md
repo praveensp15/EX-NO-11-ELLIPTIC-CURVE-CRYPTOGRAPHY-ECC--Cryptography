@@ -1,5 +1,6 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
-
+## NAME: PRAVEEN S
+## REG NO: 2305001027
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
@@ -100,6 +101,7 @@ return 0;
 
 ## Output:
 
+<img width="986" height="441" alt="image" src="https://github.com/user-attachments/assets/d6cdd9ff-5225-4fd1-a86f-cfda50bad6a9" />
 
 
 ## Result:
